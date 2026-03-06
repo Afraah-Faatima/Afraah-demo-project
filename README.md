@@ -1,1 +1,1 @@
-# Afraah-demo-project
+# demo-project
